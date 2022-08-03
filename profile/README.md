@@ -4,7 +4,7 @@
 
 South Coast Science designs and manufactures high-accuracy air pollution monitoring equipment, together with cloud-based data management services and APIs. The public repos here include device firmware, data analysis and data integration software. 
 
-Information on APIs and data formats is available in this [wiki section](https://github.com/south-coast-science/docs/wiki).
+Information on APIs, data formats and equipment operation is available in this [wiki section](https://github.com/south-coast-science/docs/wiki).
 
 <!--
 
