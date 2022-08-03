@@ -1,6 +1,10 @@
-## Software components for air pollution monitoring
+## Software for air pollution monitoring
 
-South Coast Science designs and munufactures high-accuracy air pollution monitoring equipment, together with open-source device firmware, data analysis software and cloud data systems. More information at https://www.southcoastscience.com.
+South Coast Science designs and munufactures high-accuracy air pollution monitoring equipment, together with cloud-based data managements systems and APIs.
+
+The public repos here include device firmware and data analysis and data integration software. 
+
+More information at https://www.southcoastscience.com.
 
 <!--
 
