@@ -4,9 +4,7 @@ South Coast Science designs and munufactures high-accuracy air pollution monitor
 
 Information on APIs and data formats is available in this [wiki section](https://github.com/south-coast-science/docs/wiki).
 
-***
-
-https://www.southcoastscience.com
+Information on South Coast Science at [www.southcoastscience.com](https://www.southcoastscience.com)
 
 <!--
 
