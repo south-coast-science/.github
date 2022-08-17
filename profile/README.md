@@ -1,4 +1,4 @@
-## Software for air pollution monitoring
+## Code for air pollution monitoring
 
 [www.southcoastscience.com](https://www.southcoastscience.com)
 
